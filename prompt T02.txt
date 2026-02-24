@@ -1,0 +1,7 @@
+gemini
+1. buatlah code yang mampu menentukan total nilai hnyaa unutk kelompok yang diminta 
+    perhatikan pola penyimpanan unutk memahami bagaimana kelompk di pisahkan.
+    nilai dengan jumlah total data (N)
+    , deret nilai (n1,n2,...,n), kode kelompok mahasiswa. 
+    [75] Yohana, [65] julius. [80] indah, [70] wilson
+2. bagaimana sistem penglompokan dengan deret yang memungkin berdasarkan datayang saya berikan 
