@@ -1,0 +1,14 @@
+Chat GPT
+1. coba buat sebuah code unutk membuat sebuah sistem yang membuat code yang membuat secara otomatis membuat promo
+    ada kupon biru 5%,kuning 10%, merah 15%, hijau 20%,dan 25% 
+    sesuai dengan jumlah pembelian contoh jumlah pembelian butet+ ucok = 100 mendapat kupon biru 
+    kalau pembelian ucok + butet= 200 ribu dapat kupon kuning 
+ dan  mereka memesan sesuai dengan perbadingan tubuh mereka ucok 100kg dan butet 50kg
+ dengan kode makanan 
+ nasi goreng spesial = ngs [15.000] , 
+ ayam penyet = ap[20.000]
+ sate ayam (10 tusuk) = sa [25.000],
+ bakso urat =bu [18.000], mie ayam pangsit = map [15.000], gado-gado = gg[15.000], 
+ soto ayam = sam [17.000], rendang daging = rd [ 25.000],ikan bakar = ib [35.000],nasi uduk komplit= nuk [20.000]
+2. buat kedalam bahasa java 
+3. code tidak dapat di compile 
