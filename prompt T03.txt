@@ -1,0 +1,10 @@
+gemini
+1.     coba buat sistem yang dapat mendukung operasional sehari-hari di Laundry Del.
+    saya meminta sistem yang meminta nama asrama kemudian nama mahasiswa dan NIM yang ingin meloundry 
+    kemudian yang ingin meloundry memasukkan jumlah pakaiaan [ list pakaiaan sudah di tuliskan dalma sisitem seperti jenis baju misal
+    baju berkeraj,kemeja,  celana,selimut, dll dan langsung di totalkan kemudian ingin di jemput jam berapa 
+    setelahitu buat keterangan jika ada yang ingin di sampaikan jika tidak ada isinya buat ( - - -)
+    dan selesai
+ 
+2. loundry del dia memiliki pembayaran per bulan dan wajib di bayar oleh mahasiswa jadi uang loundry di hapuskan
+3. buat sietem yang dapat menambahkna barang apapun tidakdi batasi namun harus tetap rapi
